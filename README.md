@@ -1,5 +1,7 @@
 # 🧩 Sudoku Solver en Python
 
+![Header](./images/sudoku.png)
+
 Este proyecto es un **resolutor de Sudokus** implementado en Python, que aplica técnicas de reducción de posibilidades, análisis lógico por filas, columnas y bloques, y una fase final de **backtracking inteligente** cuando es necesario.
 
 ## 📌 Descripción
@@ -57,4 +59,3 @@ Este proyecto está bajo la Licencia MIT. Puedes usarlo, modificarlo y distribui
 
 ## 🧑‍💻 Autor
 Desarrollado por [Alejandro Molinos Eligio](https://github.com/AlejandroMolinosEligio)
-Proyecto educativo de criptografía clásica y procesamiento de texto.
